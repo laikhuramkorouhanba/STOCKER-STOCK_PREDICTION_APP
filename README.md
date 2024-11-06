@@ -1,5 +1,11 @@
 # STOCK_PREDICTION
 
+<div align="center">
+
+[![predictions](https://github.com/laikhuramkorouhanba/STOCKER-STOCK_PREDICTION_APP/blob/main/Stocker-1.png)]((https://github.com/laikhuramkorouhanba/STOCKER-STOCK_PREDICTION_APP))
+[![predictions](https://github.com/laikhuramkorouhanba/STOCKER-STOCK_PREDICTION_APP/blob/main/Stocker-2.png)]((https://github.com/laikhuramkorouhanba/STOCKER-STOCK_PREDICTION_APP))
+</div>
+
 THIS IS A STOCK PREDICTION PROJECT DEVELOPED USING GENERATIVE ADVERSARIAL NETWORKS ( GAN ) AND SENTIMENT ANALYSIS.
 
 This project provides a high-level overview of the steps involved in using sentiment analysis from tweets to predict stock market movements.
