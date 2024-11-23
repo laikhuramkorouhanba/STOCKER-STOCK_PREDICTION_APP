@@ -21,7 +21,7 @@ One contains tweets for corresponding stock tickers from 30-09-2021 till 30-09-2
 • High, Low
 • Volume, Stock name
 
-PREDICTION CHART:
+PREDICTION CHART: 
 <div align="center">
 
 [![predictions](https://github.com/laikhuramkorouhanba/STOCKER-STOCK_PREDICTION_APP/blob/main/Screenshot.png?raw=true)]((https://github.com/laikhuramkorouhanba/STOCKER-STOCK_PREDICTION_APP))
