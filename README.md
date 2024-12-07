@@ -13,13 +13,13 @@ This project provides a high-level overview of the steps involved in using senti
 DATASETS:
 
 One contains tweets for corresponding stock tickers from 30-09-2021 till 30-09-2022, consisting of more than 70k+ tweets
-<li>• Date - date and time of tweet
-• Tweet - full text of the tweet
-• Stock Name - full stock ticker name for which the tweet was scraped
-• Company Name - full company name for corresponding tweet and stock ticker The other one contains stock market data from Yahoo Finance for 25 stocks.
-• Open, Close, Adj Close
-• High, Low
-• Volume, Stock name</li>
+<p>• Date - date and time of tweet</p>
+<p>• Tweet - full text of the tweet</p>
+<p>• Stock Name - full stock ticker name for which the tweet was scraped</p>
+<p>• Company Name - full company name for corresponding tweet and stock ticker The other one contains stock market data from Yahoo Finance for 25 stocks.</p>
+<p>• Open, Close, Adj Close</p>
+<p>• High, Low</p>
+<p>• Volume, Stock name</p>
 
 PREDICTION CHART: 
 <div align="center">
